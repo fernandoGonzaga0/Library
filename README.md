@@ -7,6 +7,10 @@
 
 ![Demonstração da aplicação](Library/Resources/Library.gif)
 
+## Objetivo do Projeto
+
+<p>Partindo de um dataset de dados (livros, especificamente), criar uma aplicação que viabilizasse a exibição de todos os livros e suas informações, incluindo a busca por nome do livro e atualização da página automaticamente. </p>
+
 ## Funcionalidades
 
   - **Pesquisa de livros por texto** - Filtra livros a partir de um título inserido
